@@ -18,4 +18,4 @@ my_instance = MyClass.new
 two = nil
 
 puts "@one is #{my_instance.one}"
-puts "two is #{two}"
+puts "@two is #{two}"
